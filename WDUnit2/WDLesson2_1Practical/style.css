@@ -22,7 +22,7 @@ p{font-style:italic;}
 p{font-family:Arial;}
 
 /* Challenge 5: Change the family of font being used for all lists to "Comic Sans MS".  What element creates a list? */
-p{font-family:Comic sans Ms;}
+ul, ol {font-family: "Comic Sans Ms;}
 
 /* Chalenge 6: Change the background color of the div to blue, color of the text to white and the weight of the font to bold.*/ 
 div{
